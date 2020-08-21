@@ -1,0 +1,12 @@
+{
+	"files.exclude": {
+		"C:/Users/Andrew Tipper/Documents/Unreal Projects/LiteSouls/.git": true,
+		"C:/Users/Andrew Tipper/Documents/Unreal Projects/LiteSouls/.vs": true,
+		"C:/Users/Andrew Tipper/Documents/Unreal Projects/LiteSouls/.vscode": true,
+		"C:/Users/Andrew Tipper/Documents/Unreal Projects/LiteSouls/Content": true,
+		"C:/Users/Andrew Tipper/Documents/Unreal Projects/LiteSouls/DerivedDataCache": true,
+		"C:/Users/Andrew Tipper/Documents/Unreal Projects/LiteSouls/Exports": true,
+		"C:/Users/Andrew Tipper/Documents/Unreal Projects/LiteSouls/Intermediate": true,
+		"C:/Users/Andrew Tipper/Documents/Unreal Projects/LiteSouls/Saved": true
+	}
+}
